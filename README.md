@@ -58,7 +58,7 @@ This release brings a variety of operational and strategic features now in produ
 > **Status:** `Operational`  
 > **Version:** `v1.3.2 (Q2 2025)`  
 > **Next Milestone:** `v1.4.x – AI/ML Expansion`  
-> **Maintainer:** [Cybernetics DevOps Team](mailto:cybernetics@yourdomain.com)  
+> **Maintainer:** [Keys/KeysGuard](keysguard@usa.com)  
 > **Feedback:** PRs / Issues / Feature Requests welcome!
 
 ---
